@@ -32,7 +32,7 @@ A desktop application built in **Java** using **Swing** and **AWT** for GUI and 
 
 ## 🗄️ Database Setup
 
-1. Open **MySQL Workbench** (or MySQL CLI).
+1. Open **MySQL Workbench or My SQL Command Line Client** (or MySQL CLI).
 2. Create a new database:
    ```sql
    CREATE DATABASE hospital_management_system;
